@@ -1,0 +1,21 @@
+# Site settings
+title: Coding 101
+header-img: img/home-bg.png
+email: antley.chu@gmail.com
+copyright_name: r0tiart
+description: > # this means to ignore newlines until "baseurl:"
+  A journey into the life 
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  r0tiart
+learn_profile: r0tiart
+email_username: antley.chu@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
