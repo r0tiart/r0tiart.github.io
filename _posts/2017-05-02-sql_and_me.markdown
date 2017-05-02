@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "SQL and ME"
+date:   2017-05-02 18:30:06 +0000
+---
+
+
+Just finished the SQL segments of the Curriculum. I think I'll double back on the last section in regards to table relations, just to get some more practice in joining tables and writing SQL queries. At the moment I have been building the simplest query and building upon that query while runnings tests to determine my output and the comparison of my output and what hte tests are asking for. It is working however it takes a little time to decipher each step at a time, thus practice makes perfect right? 
+
+One step at a time..little by little the ball gets bigger - progress.
