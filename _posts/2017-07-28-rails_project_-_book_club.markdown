@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rails Project - Book Club"
-date:   2017-07-28 15:54:31 +0000
+date:   2017-07-28 11:54:31 -0400
 ---
 
 
