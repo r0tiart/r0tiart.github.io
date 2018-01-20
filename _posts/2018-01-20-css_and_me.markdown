@@ -1,0 +1,13 @@
+---
+layout: post
+title:      "CSS and me "
+date:       2018-01-20 16:54:04 +0000
+permalink:  css_and_me
+---
+
+
+I was never the most creative indvidual artistically and that was what CSS was to me. However i've utilized it not to "pretty" things up but more just to make things more viewable; readability. It was an interesting concept the more I started to utilize it; however my projects are never heavy on css - they are primarily spacing, borders - centering items and shifting objects as the screen shrank. 
+
+Alot of my projects I used bootstrap, and that was very useful for what I was looking for - spacing/readability. While working on a recent mini-site I opted to not utilize bootstrap. For me I have to adjust the page constantly to figure out what I want. The general order of things was - change CSS, check the page, delete or edit it again, check page. This would repeat constantly till I was comfortable at where it is at. This is also for spacing, borders and readability.
+
+It was also an interesting experience because I was using CSS with react; as I primarily use bootstrap. I was getting some display issues and I wasn't able to figure out what was wrong with my CSS. I browsed Stack Overflow, W3Schools and general googling. It all seemed like I was doing the css right. Until I looked back at my js code. The issue wasn't my css but where I was rendering it, a few simple edits to the JS code and the containers and everything worked perfectly. 
