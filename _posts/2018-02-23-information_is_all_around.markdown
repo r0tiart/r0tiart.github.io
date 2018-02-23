@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Information is all around"
-date:       2018-02-23 15:52:47 +0000
+date:       2018-02-23 10:52:48 -0500
 permalink:  information_is_all_around
 ---
 
